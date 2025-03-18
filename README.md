@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Nivedita Bhagat<br>👀  I’m interested in Flutter Dev<br>🌱I’m currently learning DSA<br>💞️ I’m looking to collaborate on Flutter Development<br>📫 Reach me at bhagatnivedita469@gmail.com
+👋 Hi, I’m Nivedita Bhagat<br>👀  I’m interested in Python, FastAPI<br>🌱I’m currently learning DSA<br>💞️ I’m looking to collaborate on Python Development<br>📫 Reach me at bhagatnivedita469@gmail.com
 
 
 ## 🌐 Socials:
